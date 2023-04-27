@@ -1,0 +1,59 @@
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    font-family: 'Lexend Deca', sans-serif; 
+    font-size: 15px;
+}
+
+
+.container {
+    margin: 10% auto;
+    display: flex;
+    width: 800px;
+    height: 400px;
+    color: hsla(0, 0%, 100%, 0.75);
+    
+    
+    }
+
+
+
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 10px 0 0 10px ;
+    }
+
+.suvs {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 10px 10px 0 ;
+}
+
+.div-padding {
+    padding-left: 30px ;
+    padding-right: 30px ;
+}
+
+
+.img {
+    margin-top: 30px ;
+    
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: white;
+}
+
+
+
+
+
+
+/* font-family: 'Lexend Deca', sans-serif; */
+/* font-family: 'Big Shoulders Display', cursive; */ 
